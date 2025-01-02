@@ -1,16 +1,14 @@
-## Hi there 👋
+# Greetings!
 
-<!--
-**c7zn/c7zn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Skillset:
+C#
+Visual Basic
+.NET Framework
+C++ & C
+Odin
+SQL (proficient in SSMS)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me:
+I'm currently employed as a Software Developer, and work with Visual Basic, the .NET Framework and SQL/SSMS on a day to day basis.
+I'm open to putting my skills towards freelance work and open source contributions.
+Contact me for any freelance projects, I'll provide a quote and timespan. Thank you
