@@ -14,4 +14,4 @@ I'm open to putting my skills towards freelance work and open source contributio
 Contact me for any freelance projects on discord.  
 
 ## Contacts:
-Discord: fldz
+discord: fldz
